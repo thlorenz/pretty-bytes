@@ -1,3 +1,11 @@
+# thlorenz/pretty-bytes
+
+Slightly modified to be ES5 compatible and avoid transpilation step.
+
+Original Readme below.
+
+* * * 
+
 # pretty-bytes [![Build Status](https://travis-ci.org/sindresorhus/pretty-bytes.svg?branch=master)](https://travis-ci.org/sindresorhus/pretty-bytes)
 
 > Convert bytes to a human readable string: `1337` → `1.34 kB`
